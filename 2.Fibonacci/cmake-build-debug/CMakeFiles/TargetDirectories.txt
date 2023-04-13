@@ -1,0 +1,3 @@
+/mnt/c/Users/conta/Desktop/FACUL/JobRotation/JobRotationSP/2.Fibonacci/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/conta/Desktop/FACUL/JobRotation/JobRotationSP/2.Fibonacci/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/conta/Desktop/FACUL/JobRotation/JobRotationSP/2.Fibonacci/cmake-build-debug/CMakeFiles/2.dir
